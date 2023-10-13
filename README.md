@@ -1,4 +1,4 @@
 # nya
 A Collection of Handy Implements
 
-Nya for nyaruko
+Nya for Nyaruko
